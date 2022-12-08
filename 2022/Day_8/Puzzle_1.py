@@ -175,4 +175,4 @@ for i in range(1,n-1):
 
 #Calculate number of visible trees
 visible = total - hidden
-print(hidden,visible)
+print(visible)
