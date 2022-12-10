@@ -1,7 +1,6 @@
 #@title Day 10, Puzzle 1
 
 #Take input
-
 input = '''noop
 noop
 noop
